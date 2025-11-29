@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Perfil README do GitHub: jose-kauan-pereira00 -->
 
-<!--
-**jose-kauan-pereira00/jose-kauan-pereira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/SEU_ID_AQUI?v=4" width="120"/>
+  <h1>Olá, eu sou José Kauan Pereira 👋</h1>
+  
+  <p>
+    Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios! 💻<br>
+    Sempre buscando evoluir e contribuir para a comunidade.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 👨‍💻 **Formação:** adicione sua graduação ou cursos relevantes
+- 🏆 **Experiência:** adicione algum projeto real, estágio, voluntariado, etc.
+- 💡 **Areas de interesse:** backend, frontend, cloud, automação, IA, etc.
+- 🌱 **Atualmente aprendendo:** escreva sobre tecnologias ou práticas que está estudando agora
+- ⚡ **Curiosidades:** hobbies ou fatos interessantes sobre você
+
+## 🛠️ Tecnologias e Ferramentas
+
+<img align="left" alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br/>
+
+> Dica: Troque, adicione ou remova as tecnologias conforme seu domínio!
+
+## 📌 Projetos em destaque
+- [Nome do Projeto 1](link-projeto-1) — Breve descrição e tecnologias usadas.
+- [Nome do Projeto 2](link-projeto-2) — Breve descrição e destaque importante.
+- [Nome do Projeto 3](link-projeto-3) — Breve descrição e diferencial.
+
+## 💬 Contato & Redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:seu-email@dominio.com)
+
+> Adicione outras redes: Instagram, Twitter, Portfólio, Blog...
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-kauan-pereira00&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 Objetivos para 2025
+
+- [ ] Aprender desenvolvimento mobile
+- [ ] Contribuir com projetos open source
+- [ ] Participar de eventos/hackathons
+
+---
+
+<div align="center">
+  Obrigado por visitar meu perfil! Entre em contato para parcerias, projetos ou bate-papo sobre tecnologia 😄
+</div>
