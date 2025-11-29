@@ -14,19 +14,16 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 **Formação:** adicione sua graduação ou cursos relevantes
-- 🏆 **Experiência:** adicione algum projeto real, estágio, voluntariado, etc.
-- 💡 **Areas de interesse:** backend, frontend, cloud, automação, IA, etc.
-- 🌱 **Atualmente aprendendo:** escreva sobre tecnologias ou práticas que está estudando agora
-- ⚡ **Curiosidades:** hobbies ou fatos interessantes sobre você
+- 👨‍💻 **Formação:** Graduando em Ciência da Computação pela Universidade Federal de Campina Grande
+- 🏆 **Experiência:** Fiz Projetos para DIO em Bootcamps,
+- 💡 **Areas de interesse:** Backend, frontend, cloud, automação, IA.
+- 🌱 **Atualmente aprendendo:** Eficiência de Algoritimos e como melhora-los
+- ⚡ **Curiosidades:** Sou Técnico em Edificações pelo o IFPB
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <img align="left" alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br/>
 
 > Dica: Troque, adicione ou remova as tecnologias conforme seu domínio!
