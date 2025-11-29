@@ -26,8 +26,6 @@
 <img align="left" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br/>
 
-> Dica: Troque, adicione ou remova as tecnologias conforme seu domínio!
-
 ## 📌 Projetos em destaque
 - [Nome do Projeto 1](link-projeto-1) — Breve descrição e tecnologias usadas.
 - [Nome do Projeto 2](link-projeto-2) — Breve descrição e destaque importante.
@@ -35,10 +33,9 @@
 
 ## 💬 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josekauanpereira)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:jose.kauan.pereira00@gmail.com)
 
-> Adicione outras redes: Instagram, Twitter, Portfólio, Blog...
 
 ---
 
