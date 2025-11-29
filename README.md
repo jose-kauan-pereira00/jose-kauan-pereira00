@@ -50,8 +50,10 @@
 ## 🎯 Objetivos para 2025
 
 - [ ] Aprender desenvolvimento mobile
+- [ ] Aprender desenvolvimento Full-Stack
 - [ ] Contribuir com projetos open source
 - [ ] Participar de eventos/hackathons
+- [ ] Aprender Programação Competitiva
 
 ---
 
