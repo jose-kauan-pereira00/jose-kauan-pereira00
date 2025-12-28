@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/jose-kauan-pereira00?v=4" width="120"/>
+ <img src="https://github.com/jose-kauan-pereira00.png" width="150px" style="&rounded=true": 50%; " alt="Foto de José Kauan"/>
   <h1>Olá, eu sou José Kauan Pereira 👋</h1>
   
   <p>
@@ -43,10 +43,11 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-kauan-pereira00&layout=compact&theme=github_dark)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-kauan-pereira00&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 ---
 
 ## 🎯 Objetivos para 2025
