@@ -43,11 +43,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-kauan-pereira00&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=radical)
 ---
 
 ## 🎯 Objetivos para 2025
