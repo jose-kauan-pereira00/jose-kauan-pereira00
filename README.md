@@ -1,6 +1,15 @@
 <div align="center">
- <img src="https://github.com/jose-kauan-pereira00.png" width="150px" style="&rounded=true": 50%; " alt="Foto de José Kauan"/>
-  <h1>Olá, eu sou José Kauan Pereira 👋</h1>
+  <img 
+    src="https://github.com/jose-kauan-pereira00.png" 
+    width="150px" 
+    style="border-radius: 50%; border: 3px solid #7928CA;" 
+    alt="Foto de José Kauan"
+  />
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Jos%C3%A9+Kauan+Pereira+👋;Desenvolvedor+Back-end+&lt;%2F&gt;" alt="Typing SVG" />
+    </a>
+  </h1>
   
   <p>
     Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios! 💻<br>
@@ -12,10 +21,10 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 **Formação:** Graduando em Ciência da Computação pela Universidade Federal de Campina Grande
-- 🏆 **Experiência:** Fiz Projetos para DIO em Bootcamps,
-- 💡 **Areas de interesse:** Backend, frontend, cloud, automação, IA.
-- 🌱 **Atualmente aprendendo:** Eficiência de Algoritimos e como melhora-los
+- 👨‍💻 **Formação:** Graduando em Ciência da Computação pela Universidade Federal de Campina Grande(UFCG)
+- 🏆 **Experiência:** Fiz Projetos para DIO em Bootcamps, Projetos Universitários
+- 💡 **Áreas de interesse:** Backend, frontend, cloud, automação, IA, android, Linux, CiberSectury
+- 🌱 **Atualmente aprendendo:** Eficiência de Algoritmos e como melhorá-los, back-end, full-stack
 - ⚡ **Curiosidades:** Sou Técnico em Edificações pelo o IFPB
 
 ---
@@ -29,8 +38,15 @@
 ---
 
 ## 📌 Projetos em destaque
-- [Arquitetura de Microsserviços - Desafio DIO](https://github.com/jose-kauan-pereira00/Microsservico-de-Controle-de-E-commerce) — Java, SpringBoot e banco de dados
-- [Jogo de Terminal em Python3](https://github.com/jose-kauan-pereira00/Jogos-python3) — Jogo feito ultilizado python3 para ser jogado em terminal
+
+<a href="https://github.com/jose-kauan-pereira00/Microsservico-de-Controle-de-E-commerce">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=Microsservico-de-Controle-de-E-commerce&theme=radical" />
+</a>
+<a href="https://github.com/jose-kauan-pereira00/Jogos-python3">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=Jogos-python3&theme=radical" />
+</a>
+
+<br><br><br><br>
 
 ---
 ## 💬 Contato & Redes
@@ -43,16 +59,25 @@
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-kauan-pereira00&theme=radical&layout=donut" />
+</p>
+
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - [ ] Aprender desenvolvimento mobile
+- [ ] Desenvolvimento Web
 - [ ] Aprender desenvolvimento Full-Stack
 - [ ] Contribuir com projetos open source
 - [ ] Participar de eventos/hackathons
 - [ ] Aprender Programação Competitiva
+- [ ] Matemática Avançada
 
 ---
 
