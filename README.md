@@ -39,11 +39,11 @@
 
 ## 📌 Projetos em destaque
 
-<a href="https://github.com/jose-kauan-pereira00/Microsservico-de-Controle-de-E-commerce">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=Microsservico-de-Controle-de-E-commerce&theme=radical" />
+<a href="https://github.com/jose-kauan-pereira00/ProjetosFaculdade">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=ProjetosFaculdade&theme=radical" />
 </a>
-<a href="https://github.com/jose-kauan-pereira00/Jogos-python3">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=Jogos-python3&theme=radical" />
+<a href="https://github.com/jose-kauan-pereira00/subgrupos-tester">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-kauan-pereira00&repo=subgrupos-tester&theme=radical" />
 </a>
 
 <br><br><br><br>
