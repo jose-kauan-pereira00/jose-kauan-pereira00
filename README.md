@@ -7,24 +7,24 @@
   />
 
   # José Kauan Pereira
-  ### Desenvolvedor Back-end
+  ### Developer Full-Stack and WebDeveloper
 
-  Desenvolvedor focado em construir soluções eficientes, automação e constante evolução técnica. 💻
+  Developer focused on building efficient solutions, automation, and constant technical evolution. 💻
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Aabout Me
 
-- 👨‍💻 **Formação:** Graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG)
-- 🏆 **Experiência:** Projetos universitários e desafios em Bootcamps (Subgrupos-tester, PRW, automações)
-- 💡 **Áreas de interesse:** Backend, Automação, Sistemas Operacionais (Linux), IA e Cibersegurança
-- 🌱 **Atualmente aprendendo:** Eficiência de algoritmos, desenvolvimento Full-stack e Programação Competitiva
-- ⚡ **Curiosidade:** Técnico em Edificações pelo IFPB
+- 👨‍💻 **Education:** Undergraduate student in Computer Science at the Federal University of Campina Grande (UFCG)
+- 🏆 **Experience:** University projects and bootcamp challenges (testing sub-groups, PRW, automation)
+- 💡 **Areas of interest:** Full-Stack, Automation, Operating Systems (Linux and Windows), Machine Learning, Cybersecurity and WebDeveloper
+- 🌱 **Currently learning:** Algorithm efficiency, Full-stack development, REST and Advanced Mathematcis
+- ⚡ **Fun fact::** Certified Building Construction Technician (IFPB)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nextjs,nodejs,tailwind,git,docker,linux,c,cpp" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/jose-kauan-pereira00/ProjetosFaculdade">
@@ -45,18 +45,19 @@
 
 ---
 
-## 💬 Contato & Redes
+## 💬 Contact & Social Media
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josekauanpereira)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:jose.kauan.pereira00@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/zexkauan)
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jose-kauan-pereira00&show_icons=true&theme=radical" />
@@ -68,15 +69,15 @@
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objectives
 
-- [ ] Evoluir em Programação Competitiva e Matemática Avançada
-- [ ] Consolidar conceitos de arquitetura Back-end e Full-stack
-- [ ] Contribuir ativamente com projetos Open Source
-- [ ] Participar de hackathons e eventos de tecnologia
+- [ ] Advance in competitive programming and advanced mathematics
+- [ ] Solidify back-end and full-stack architecture concepts
+- [ ] Actively contribute to open-source projects
+- [ ] Participate in hackathons and tech events
 
 ---
 
 <div align="center">
-  Obrigado por visitar meu perfil! Sinta-se à vontade para se conectar ou explorar meus repositórios. 😄
+  Thanks for visiting my profile! Feel free to connect or explore my repositories. 😄
 </div>
