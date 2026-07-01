@@ -29,7 +29,7 @@
 - 🏆 **Experience:** University projects and bootcamp challenges (testing sub-groups, PRW, automation)
 - 💡 **Areas of interest:** Full-Stack, Automation, Operating Systems (Linux and Windows), Machine Learning, Cybersecurity and WebDeveloper
 - 🌱 **Currently learning:** Algorithm efficiency, Full-stack development, REST and Advanced Mathematcis
-- ⚡ **Fun fact::** Certified Building Construction Technician (IFPB)
+- ⚡ **Fun fact:** Certified Building Construction Technician (IFPB)
 
 ---
 <!-- Technologies-->
