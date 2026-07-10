@@ -72,7 +72,7 @@
   </a><br>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+  <a href="https://discord.com/users/ankou_zex" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="80px" />
   </a><br>
 
