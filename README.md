@@ -19,17 +19,17 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Full-Stack%20and%20WebDeveloper;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-  >Developer focused on building efficient solutions, automation, and constant technical evolution. 💻
+  > Developer focused on building efficient solutions, automation, and constant technical evolution. 
 </div>
 
 ---
 ## <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=40&width=800&text=%20Aabout%20Me&fontSize=22&fontColor=ffffff" />
 
-- 👨‍💻 **Education:** Undergraduate student in Computer Science at the Federal University of Campina Grande (UFCG)
-- 🏆 **Experience:** University projects and bootcamp challenges (testing sub-groups, PRW, automation)
-- 💡 **Areas of interest:** Full-Stack, Automation, Operating Systems (Linux and Windows), Machine Learning, Cybersecurity and WebDeveloper
-- 🌱 **Currently learning:** Algorithm efficiency, Full-stack development, REST and Advanced Mathematcis
-- ⚡ **Fun fact:** Certified Building Construction Technician (IFPB)
+- **Education:** Undergraduate student in Computer Science at the Federal University of Campina Grande (UFCG)
+- **Experience:** University projects and bootcamp challenges (testing sub-groups, PRW, automation)
+- **Areas of interest:** Full-Stack, Automation, Operating Systems (Linux and Windows), Machine Learning, Cybersecurity and WebDeveloper
+- **Currently learning:** Algorithm efficiency, Full-stack development, REST and Advanced Mathematcis
+- **Fun fact:** Certified Building Construction Technician (IFPB)
 
 ---
 <!-- Technologies-->
